@@ -5,7 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://gitudon.github.io',
-	base: '/bushdoggo.com',
+	site: 'https://bushdoggo.github.io.',
 	integrations: [mdx(), sitemap()],
 });
