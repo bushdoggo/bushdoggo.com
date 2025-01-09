@@ -4,4 +4,4 @@
 export const SITE_TITLE = 'bushdoggo.com';
 export const SITE_DESCRIPTION = 'Welcome to bushdoggo.com!';
 export const GITHUB_URL = 'https://github.com/bushdoggo';
-export const EMAIL_ADDRESS = 'demo';
+export const EMAIL_ADDRESS = 'bushpupper@gmail.com';
